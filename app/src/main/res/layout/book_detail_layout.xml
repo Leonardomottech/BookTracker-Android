@@ -18,8 +18,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="fitXY"
-            android:src="@drawable/lotr_book_cover"
-            android:contentDescription="@string/book_cover"/>
+            android:contentDescription="@string/book_cover"
+            android:id="@+id/bookCover"/>
 
         <View
             android:layout_width="match_parent"
